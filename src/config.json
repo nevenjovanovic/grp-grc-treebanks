@@ -1,15 +1,51 @@
 {
-  "title": "Treebank Publication Template",
-  "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "title": "Ancient Greek Sentence Syntax",
+  "subtitle": "Examples of simple sentences from Vanessa Gorman's treebank collection",
   "copyright": "© The Perseids Project 2019",
-  "report": "https://github.com/perseids-publications/treebank-template/issues",
-  "github": "https://github.com/perseids-publications/treebank-template/",
-  "twitter": "https://twitter.com/PerseidsProject",
+  "report": "https://github.com/nevenjovanovic/grp-grc-treebanks/issues",
+  "github": "https://github.com/nevenjovanovic/grp-grc-treebanks/",
   "collections": [
     {
       "title": "Information",
       "text": "To learn more visit [our homepage](https://www.perseids.org) or view a [treebank](/on-the-murder-of-eratosthenes-1-50/1)."
     },
+    { "title": "Primjeri grčkog rečeničnog perioda / Greek sentence syntax examples",
+		"publications": [
+		{
+		  "path": "jednostavna-recenica",
+          "author": "Razni autori",
+          "work": "Razna djela",
+          "editors": "Vanessa Gorman, Neven Jovanović",
+          "sections": [
+          {
+              "locus": "1-14",
+              "path": "jednostavna-recenica-1-14",
+              "xml": "croala-grp-3.xml",
+              "link": "https://www.example.com",
+              "notes": "Primjeri jednostavne rečenice s dva člana, predikatom i objektom.",
+              "chunks": { "start": 1, "end": 14 }
+            },
+            {
+		  "path": "pso",
+          "author": "Apijan, Lizija, Demosten, Platon, Herodot, Atenej",
+          "work": "Rečenice od četiri člana koje sadrže predikat, subjekt, objekt",
+          "editors": "Vanessa Gorman, Neven Jovanović",
+          "sections": [
+          {
+              "locus": "1-8",
+              "path": "pso-1-8",
+              "xml": "croala-pso-8.xml",
+              "link": "https://www.example.com",
+              "notes": "Primjeri jednostavne rečenice s četiri člana, predikatom, subjektom i objektom.",
+              "chunks": { "start": 1, "end": 8 }
+            }
+          ]
+		}
+		
+          ]
+		}
+		]
+	},
     {
       "title": "Collection 1", 
       "publications": [
