@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14585d0809c6627ef44a5158c41cdd5a",
+    "revision": "f1a3bb67594dd2d587e530933b2fd655",
     "url": "/grp-grc-treebanks/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grp-grc-treebanks/static/css/2.be8e0034.chunk.css"
   },
   {
-    "revision": "c46c6a41a1b1ff146178",
+    "revision": "d97bdb3f05918264e19b",
     "url": "/grp-grc-treebanks/static/css/main.a730fb68.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grp-grc-treebanks/static/js/2.a8069619.chunk.js"
   },
   {
-    "revision": "c46c6a41a1b1ff146178",
-    "url": "/grp-grc-treebanks/static/js/main.15cc4217.chunk.js"
+    "revision": "d97bdb3f05918264e19b",
+    "url": "/grp-grc-treebanks/static/js/main.d76b9cf0.chunk.js"
   },
   {
     "revision": "221e9da21b03c05e1d7a",
