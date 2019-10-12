@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank xmlns:saxon="http://saxon.sf.net/" xml:lang="grc" version="1.5" direction="ltr" format="morphgrc">
+<treebank xmlns:saxon="http://saxon.sf.net/" xml:lang="grc" version="1.5" direction="ltr" format="aldt">
   <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.41" span="fragment-SBJ">
     <word id="26" form="τις" lemma="τις" postag="a-s---mn-" relation="ATR" head="27"/>
     <word id="27" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" head="28"/>
