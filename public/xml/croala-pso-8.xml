@@ -1,51 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<treebank xmlns:saxon="http://saxon.sf.net/" xml:lang="grc" version="1.5" direction="ltr" format="morphgrc">
-  <sentence id="74" document_id="urn:cts:greekLit:tlg0551.tlg017.perseus-grc2" subdoc="1.11.101">
-    <word id="1" form="φθεῖρες" lemma="φθείρ" postag="n-p---mn-" relation="SBJ" head="4"/>
-    <word id="2" form="γεωργὸν" lemma="γεωργός" postag="a-s---ma-" relation="OBJ" head="4"/>
-    <word id="3" form="ἀροτριῶντα" lemma="ἀροτριάω" postag="v-sppama-" relation="ATR" head="2"/>
-    <word id="4" form="ὑπέδακνον" lemma="ὑπό-δάκνω" postag="v3piia---" relation="PRED" head="0"/>
+<treebank xmlns:saxon='http://saxon.sf.net/' xml:lang='grc' version='1.5' direction='ltr' format='aldt'>
+  <date>2019-10-05 09:22:33 UTC</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>nevenjovanovic</short>
+    <name>Neven Jovanović</name>
+    <address>filologanoga@gmail.com</address>
+    <uri>http://data.perseus.org/sosol/users/nevenjovanovic</uri>
+  </annotator>
+  <sentence id='1' document_id='urn:cts:greekLit:tlg0551.tlg017.perseus-grc2' subdoc='1.11.101'>
+    <word id='1' form='φθεῖρες' lemma='φθείρ' postag='n-p---mn-' relation='SBJ' head='4'/>
+    <word id='2' form='γεωργὸν' lemma='γεωργός' postag='a-s---ma-' relation='OBJ' head='4'/>
+    <word id='3' form='ἀροτριῶντα' lemma='ἀροτριάω' postag='v-sppama-' relation='ATR' head='2'/>
+    <word id='4' form='ὑπέδακνον' lemma='ὑπό-δάκνω' postag='v3piia---' relation='PRED' head='0'/>
   </sentence>
-  <sentence id="260" document_id="urn:cts:greekLit:tlg0540.tlg013.perseus-grc1" subdoc="96">
-    <word id="1" form="οὗ" lemma="ὅς" postag="p-s---mg-" relation="OBJ" head="3"/>
-    <word id="2" form="προσήκει" lemma="προσήκω" postag="v3spia---" relation="PRED" head="0"/>
-    <word id="3" form="καταψηφίζεσθαι" lemma="καταψηφίζομαι" postag="v--pne---" relation="SBJ" head="2"/>
-    <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  <sentence id='2' document_id='urn:cts:greekLit:tlg0540.tlg013.perseus-grc1' subdoc='96'>
+    <word id='1' form='οὗ' lemma='ὅς' postag='p-s---mg-' relation='OBJ' head='3'/>
+    <word id='2' form='προσήκει' lemma='προσήκω' postag='v3spia---' relation='PRED' head='0'/>
+    <word id='3' form='καταψηφίζεσθαι' lemma='καταψηφίζομαι' postag='v--pne---' relation='SBJ' head='2'/>
+    <word id='4' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id="139" document_id="urn:cts:greekLit:tlg0014.tlg018.perseus-grc1" subdoc="246">
-    <word id="1" form="ταῦτα" lemma="οὗτος" postag="p-p---nn-" relation="SBJ" head="2"/>
-    <word id="2" form="πέπρακταί" lemma="πράσσω" postag="v3srie---" relation="PRED" head="0"/>
-    <word id="3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="2"/>
-    <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  <sentence id='3' document_id='urn:cts:greekLit:tlg0014.tlg018.perseus-grc1' subdoc='246'>
+    <word id='1' form='ταῦτα' lemma='οὗτος' postag='p-p---nn-' relation='SBJ' head='2'/>
+    <word id='2' form='πέπρακταί' lemma='πράσσω' postag='v3srie---' relation='PRED' head='0'/>
+    <word id='3' form='μοι' lemma='ἐγώ' postag='p1s---md-' relation='OBJ' head='2'/>
+    <word id='4' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id="455" document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1" subdoc="40b">
-    <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="3"/>
-    <word id="2" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="3"/>
-    <word id="3" form="ἐρῶ" lemma="ἐρέω" postag="v1sfia---" relation="PRED" head="0"/>
-    <word id="4" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  <sentence id='4' document_id='http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='40b'>
+    <word id='1' form='ἐγὼ' lemma='ἐγώ' postag='p1s---mn-' relation='SBJ' head='3'/>
+    <word id='2' form='ὑμῖν' lemma='σύ' postag='p-p---md-' relation='OBJ' head='3'/>
+    <word id='3' form='ἐρῶ' lemma='ἐρέω' postag='v1sfia---' relation='PRED' head='0'/>
+    <word id='4' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id="82" document_id="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1" subdoc="1.11">
-    <word id="1" form="αἱρέεται" lemma="αἱρέω" postag="v3spie---" relation="PRED" head="0"/>
-    <word id="2" form="αὐτὸς" lemma="αὐτός" postag="p-s---mn-" relation="SBJ" head="1"/>
-    <word id="3" form="περιεῖναι" lemma="περίειμι1" postag="v--pna---" relation="OBJ" head="1"/>
-    <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  <sentence id='5' document_id='urn:cts:greekLit:tlg0016.tlg001.perseus-grc1' subdoc='1.11'>
+    <word id='1' form='αἱρέεται' lemma='αἱρέω' postag='v3spie---' relation='PRED' head='0'/>
+    <word id='2' form='αὐτὸς' lemma='αὐτός' postag='p-s---mn-' relation='SBJ' head='1'/>
+    <word id='3' form='περιεῖναι' lemma='περίειμι1' postag='v--pna---' relation='OBJ' head='1'/>
+    <word id='4' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id="139" document_id="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1" subdoc="1.38">
-    <word id="1" form="ἀμείβεται" lemma="ἀμείβω" postag="v3spie---" relation="PRED" head="0"/>
-    <word id="2" form="Κροῖσος" lemma="Κροῖσος" postag="n-s---mn-" relation="SBJ" head="1"/>
-    <word id="3" form="τοῖσιδε" lemma="ὅδε" postag="p-p---nd-" relation="OBJ" head="1"/>
-    <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  <sentence id='6' document_id='urn:cts:greekLit:tlg0016.tlg001.perseus-grc1' subdoc='1.38'>
+    <word id='1' form='ἀμείβεται' lemma='ἀμείβω' postag='v3spie---' relation='PRED' head='0'/>
+    <word id='2' form='Κροῖσος' lemma='Κροῖσος' postag='n-s---mn-' relation='SBJ' head='1'/>
+    <word id='3' form='τοῖσιδε' lemma='ὅδε' postag='p-p---nd-' relation='OBJ' head='1'/>
+    <word id='4' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id="123" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.8">
-    <word id="1" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="3"/>
-    <word id="2" form="σὺ" lemma="σύ" postag="p2s---mn-" relation="SBJ" head="3"/>
-    <word id="3" form="λέγεις" lemma="λέγω3" postag="v2spia---" relation="PRED" head="0"/>
-    <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  <sentence id='7' document_id='urn:cts:greekLit:tlg0008.tlg001.perseus-grc1' subdoc='13.8'>
+    <word id='1' form='τί' lemma='τις' postag='p-s---na-' relation='OBJ' head='3'/>
+    <word id='2' form='σὺ' lemma='σύ' postag='p2s---mn-' relation='SBJ' head='3'/>
+    <word id='3' form='λέγεις' lemma='λέγω3' postag='v2spia---' relation='PRED' head='0'/>
+    <word id='4' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id="161" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.48">
-    <word id="1" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="2"/>
-    <word id="2" form="ἱστορεῖ" lemma="ἱστορέω" postag="v3spia---" relation="PRED" head="0"/>
-    <word id="3" form="Ἡγήσανδρος" lemma="Ἡγήσανδρος" postag="n-s---mn-" relation="SBJ" head="2"/>
-    <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  <sentence id='8' document_id='urn:cts:greekLit:tlg0008.tlg001.perseus-grc1' subdoc='13.48'>
+    <word id='1' form='τοῦτο' lemma='οὗτος' postag='p-s---na-' relation='OBJ' head='2'/>
+    <word id='2' form='ἱστορεῖ' lemma='ἱστορέω' postag='v3spia---' relation='PRED' head='0'/>
+    <word id='3' form='Ἡγήσανδρος' lemma='Ἡγήσανδρος' postag='n-s---mn-' relation='SBJ' head='2'/>
+    <word id='4' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
 </treebank>
