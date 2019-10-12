@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/" xml:lang="grc" version="1.5" direction="ltr" format="morphgrc">
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.41" span="fragment-SBJ">
+    <word id="26" form="τις" lemma="τις" postag="a-s---mn-" relation="ATR" head="27"/>
+    <word id="27" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" head="28"/>
+    <word id="28" form="γένοιτο" lemma="γίγνομαι" postag="v3saom---" relation="ADV" head="35"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.41" span="fragment-SBJ">
+    <word id="31" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="32"/>
+    <word id="32" form="Μέλιτταν" lemma="μέλισσα" postag="n-s---fa-" relation="SBJ" head="44"/>
+    <word id="44" insertion_id="0043f" artificial="elliptic" relation="SBJ" form="[1]" lemma="[1]" postag="v_____---" head="33"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.41" span="fragment-SBJ">
+    <word id="39" form="προσεξειργάζετο" lemma="προσεξεργάζομαι" postag="v3siie---" relation="PRED_CO" head="38"/>
+    <word id="40" form="αὐτὴ" lemma="αὐτός" postag="p-s---fn-" relation="SBJ" head="39"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.41" span="fragment-SBJ">
+    <word id="2" form="δ᾽" lemma="δέ" postag="d--------" relation="AuxY" head="44"/>
+    <word id="14" form="πολλοὺς" lemma="πολύς" postag="a-p---ma-" relation="ATR" head="15"/>
+    <word id="15" form="ἐραστὰς" lemma="ἐραστής" postag="n-p---ma-" relation="OBJ" head="20"/>
+    <word id="16" form="καὶ" lemma="καί" postag="d--------" relation="AuxR" head="18"/>
+    <word id="17" form="πολίτας" lemma="πολίτης" postag="n-p---ma-" relation="ATR_CO" head="18"/>
+    <word id="18" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="15"/>
+    <word id="19" form="ξένους" lemma="ξένος1" postag="n-p---ma-" relation="ATR_CO" head="18"/>
+    <word id="20" form="ἔχουσ᾽" lemma="ἔχω" postag="v-sppafn-" relation="ADV" head="44"/>
+    <word id="31" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="32"/>
+    <word id="32" form="Μέλιτταν" lemma="μέλισσα" postag="n-s---fa-" relation="SBJ" head="44"/>
+    <word id="33" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="36"/>
+    <word id="34" form="καλὴν" lemma="καλός" postag="a-s---fa-" relation="PNOM" head="44"/>
+    <word id="44" insertion_id="0043f" artificial="elliptic" relation="SBJ" form="[1]" lemma="[1]" postag="v_____---" head="33"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" subdoc="10.1.10" span="fragment-SBJ">
+    <word id="2" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>
+    <word id="3" form="Φάβιος" lemma="Φάβιος" postag="n-s---mn-" relation="SBJ" head="20"/>
+    <word id="20" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0081.tlg001.perseus-grc1" subdoc="1.77.1" span="fragment-SBJ">
+    <word id="24" form="βιάζεταί" lemma="βιάζω" postag="v3spie---" relation="PRED" head="0"/>
+    <word id="25" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" head="24"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc2" subdoc="6.31.10" span="fragment-SBJ">
+    <word id="1" form="τούτων" lemma="οὗτος" postag="p-p---ng-" relation="SBJ" head="4"/>
+    <word id="4" form="ἐχόντων" lemma="ἔχω" postag="v-pppang-" relation="ADV" head="16"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc2" subdoc="6.31.10" span="fragment-SBJ">
+    <word id="5" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="8"/>
+    <word id="7" form="σύμπαν" lemma="σύμπας" postag="a-s---nn-" relation="ATR" head="8"/>
+    <word id="8" form="σχῆμα" lemma="σχῆμα" postag="n-s---nn-" relation="SBJ" head="9"/>
+    <word id="9" form="γίνεται" lemma="γίγνομαι" postag="v3spie---" relation="PRED_CO" head="16"/>
+    <word id="10" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="11"/>
+    <word id="11" form="στρατοπεδείας" lemma="στρατοπεδεία" postag="n-s---fg-" relation="ATR" head="8"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc2" subdoc="6.31.10" span="fragment-SBJ">
+    <word id="15" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="SBJ" head="31"/>
+    <word id="20" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="22"/>
+    <word id="21" form="τε" lemma="τε" postag="d--------" relation="AuxY" head="25"/>
+    <word id="22" form="ῥυμοτομίας" lemma="ῥυμοτομία" postag="n-s---fg-" relation="ATR_CO" head="25"/>
+    <word id="23" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="25"/>
+    <word id="24" form="αὐτῇ" lemma="αὐτός" postag="p-s---fd-" relation="ATR" head="23"/>
+    <word id="25" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="15"/>
+    <word id="26" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="28"/>
+    <word id="27" form="ἄλλης" lemma="ἄλλος" postag="a-s---fg_" relation="ATR" head="28"/>
+    <word id="28" form="οἰκονομίας" lemma="οἰκονομία" postag="n-s---fg-" relation="ATR_CO" head="25"/>
+    <word id="31" form="ἔχει" lemma="ἔχω" postag="v3spia---" relation="PRED_CO" head="16"/>
+  </sentence>
+  <sentence id="10" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" subdoc="9.34.9" span="fragment-SBJ">
+    <word id="1" form="ὧν" lemma="ὅς" postag="p-p---mg-" relation="ATR" head="2"/>
+    <word id="2" form="Τίμαιος" lemma="Τίμαιος" postag="n-s---mn-" relation="SBJ" head="17"/>
+    <word id="17" form="ἐσύλησε" lemma="συλάω" postag="v3saia---" relation="PRED_CO" head="20"/>
+  </sentence>
+  
+</treebank>
